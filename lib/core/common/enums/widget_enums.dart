@@ -1,0 +1,4 @@
+enum TextFieldInertiaDirection {
+  left,
+  right,
+}
