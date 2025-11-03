@@ -34,7 +34,7 @@ It’s designed to provide a fast, calculator-like billing experience while keep
 | Layer | Technology |
 |-------|-------------|
 | Frontend | Flutter (Dart) |
-| Backend & Database | Firebase |
+| Backend & Database | Firebase + Firebase-Rules |
 | Authentication | Firebase Auth |
 <!-- | Printing | Bluetooth Thermal Printer Integration | -->
 
